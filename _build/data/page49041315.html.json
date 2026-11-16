@@ -1,0 +1,207 @@
+{
+ "meta": {
+  "title": "AI in Medicine: Future Technologies Today",
+  "description": "A template will help to create a short article",
+  "lang": ""
+ },
+ "blocks": [
+  {
+   "id": "rec749130982",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "GALE'S BLOG"
+    ],
+    [
+     "btn",
+     "Book demo",
+     "#rec727191933"
+    ],
+    [
+     "t",
+     "En"
+    ],
+    [
+     "t",
+     "Vn",
+     [
+      "http://galeapp.co/vn"
+     ]
+    ],
+    [
+     "t",
+     "Ru",
+     [
+      "http://galeapp.co/ru"
+     ]
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec749128304",
+   "type": "255",
+   "items": [
+    [
+     "h",
+     "AI in Medicine: Future Technologies Today"
+    ]
+   ]
+  },
+  {
+   "id": "rec749128305",
+   "type": "127",
+   "items": [
+    [
+     "t",
+     "Artificial intelligence (AI) is revolutionizing medicine, offering new possibilities for diagnosis, treatment, and disease prevention. With the advancement of AI technologies, medical institutions worldwide are integrating these innovations into their practice, improving patient care quality and reducing costs."
+    ]
+   ]
+  },
+  {
+   "id": "rec749128306",
+   "type": "106",
+   "items": [
+    [
+     "t",
+     "Diagnostics and Early Detection\nAI plays a crucial role in enhancing disease diagnosis. Modern machine learning algorithms can analyze medical images, such as X-rays and MRIs, with high accuracy. This allows doctors to detect diseases like cancer, heart diseases, and neurological disorders more quickly and accurately.\nPersonalized Treatment\nAI also contributes to the development of personalized medicine. By analyzing patient data, including genetics, lifestyle, and medical history, AI helps doctors create individualized treatment plans. This improves treatment outcomes and reduces side effects."
+    ]
+   ]
+  },
+  {
+   "id": "rec749128307",
+   "type": "3",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3436-6434-4463-b932-643366626337/_.jpg",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec749128308",
+   "type": "106",
+   "items": [
+    [
+     "t",
+     "Robotic Surgical Systems\nAI-driven robotic systems are increasingly used in surgery. These systems enable operations with minimal incisions and high precision, reducing the risk of complications and speeding up patient recovery. Surgical robots can perform complex procedures requiring high precision and steadiness.\nPatient Monitoring and Care\nAI is also used for real-time patient monitoring. Smart devices and sensors can track vital signs and alert medical staff to potential deviations. This is especially important for patients with chronic diseases requiring constant supervision."
+    ]
+   ]
+  },
+  {
+   "id": "rec749133728",
+   "type": "3",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild6466-3931-4233-b266-353333613736/__2.jpg",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec749132424",
+   "type": "106",
+   "items": [
+    [
+     "t",
+     "Scientific Research and Drug Development\nAI accelerates scientific research and the development of new drugs. Machine learning algorithms can analyze vast amounts of data and identify potential drug compounds faster than traditional methods. This leads to quicker introduction of new effective medications to the market."
+    ]
+   ]
+  },
+  {
+   "id": "rec749132885",
+   "type": "43",
+   "items": [
+    [
+     "h",
+     "Conclusion"
+    ],
+    [
+     "t",
+     "AI is transforming modern medicine, making it more accurate, personalized, and efficient. From diagnostics to surgery and patient monitoring, AI is opening new horizons for medical science and practice, improving the quality of life for people worldwide."
+    ]
+   ]
+  },
+  {
+   "id": "rec749128309",
+   "type": "40",
+   "items": [
+    [
+     "h",
+     "MAY, 16 / 2024"
+    ]
+   ]
+  },
+  {
+   "id": "rec749133287",
+   "type": "106",
+   "items": [
+    [
+     "t",
+     "Contact us with any convenient way:\nE-mail: hello@company.com\nPhone: +79919379787",
+     [
+      "https://tilda.cc/",
+      "tel:https://www.instagram.com/tildapublishing/"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rec749755508",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Designed with ❤️"
+    ],
+    [
+     "t",
+     "© 2024 Gale AI Company"
+    ],
+    [
+     "t",
+     "About product",
+     [
+      "https://galeapp.co"
+     ]
+    ],
+    [
+     "t",
+     "Partner programm",
+     [
+      "https://galeapp.co/partners/en"
+     ]
+    ],
+    [
+     "t",
+     "Blog",
+     [
+      "https://galeapp.co/blogen"
+     ]
+    ]
+   ]
+  }
+ ]
+}

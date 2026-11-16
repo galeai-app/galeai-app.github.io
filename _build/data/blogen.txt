@@ -1,0 +1,47 @@
+# blogen | Gale's blog EN | lang=
+Photographer's blog with tiled galleries and email subscription.
+
+--- rec740767170 type=396
+  [IMG] https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png 
+  [T] GALE
+  [BTN] Book demo -> #rec727191933
+  [T] En
+  [T] Ru  (links: http://galeapp.co/blogru)
+  [IMG] https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png 
+--- rec749696564 type=396
+  [T] Blog
+--- rec740761185 type=404
+  [IMG] https://static.tildacdn.info/tild3463-6437-4864-b865-663333386532/_2.jpg 
+  [H] Friday, May 17
+  [H] Artificial Intelligence in Finance: The Future of Money Management
+  [T] A template will help to create a short article
+  [IMG] https://static.tildacdn.info/tild6138-3265-4136-b539-363164643763/DALLE_2024-05-17_120.jpg 
+  [H] Friday, May 17
+  [H] AI in Transportation: Revolutionizing the Roads
+  [T] A template will help to create a short article
+  [IMG] https://static.tildacdn.info/tild3935-3939-4139-a532-353939363432/__1.jpg 
+  [H] Thursday, May 16
+  [H] Artificial Intelligence in Education: New Horizons of Learning
+  [T] A template will help to create a short article
+  [IMG] https://static.tildacdn.info/tild3637-3031-4237-b537-386263323565/_.jpg 
+  [H] Thursday, May 16
+  [H] AI in Medicine: Future Technologies Today
+  [T] A template will help to create a short article
+  [IMG] https://static.tildacdn.info/tild6230-3065-4463-a639-346665373762/DALLE_2024-05-16_104.jpg 
+  [H] Thursday, May 16
+  [H] AI Empowering Businesses: A New Era of Efficiency and Growth
+  [T] A template will help to create a short article
+  [IMG] https://static.tildacdn.info/tild3866-3064-4633-a466-623866326133/DALLE_2024-04-26_190.jpg 
+  [H] Friday, April 26
+  [H] Artificial Intelligence: Transforming the World Across Industries
+  [T] Great fullscreen cover image and a simple text layout.
+--- rec740958159 type=389
+  [H] © 2021 Your Company
+  [H] About us  (links: #)
+  [H] Facebook  (links: #)
+  [H] Twitter  (links: #)
+  [H] Contacts  (links: #)
+  [H] © 2021 Your Company
+  [BTN] Back to top -> javascript:t389_scrollToTop();

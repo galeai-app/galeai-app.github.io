@@ -1,0 +1,568 @@
+{
+ "meta": {
+  "title": "Copy of Gale AI EN",
+  "description": "AI-платформа для усиления контакт-центра",
+  "lang": ""
+ },
+ "blocks": [
+  {
+   "id": "rec779658400",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png",
+     ""
+    ],
+    [
+     "btn",
+     "Book demo",
+     "#rec727191933"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3362-3931-4433-b133-313138636438/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "En"
+    ],
+    [
+     "t",
+     "Vn",
+     [
+      "http://galeapp.co/vn"
+     ]
+    ],
+    [
+     "t",
+     "Ru",
+     [
+      "http://galeapp.co/ru"
+     ]
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec779658401",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild6439-3665-4665-b132-306530663663/IMG_8369.PNG",
+     ""
+    ],
+    [
+     "t",
+     "THE AI PLATFORM THAT EMPOWERS YOUR CONTACT CENTER"
+    ],
+    [
+     "t",
+     "Put customer conversations at the center of your business and unlock revenue potential"
+    ],
+    [
+     "btn",
+     "Book demo",
+     "#rec727191933"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658404",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Which industries need Gale AI"
+    ],
+    [
+     "btn",
+     "Medical practice",
+     ""
+    ],
+    [
+     "btn",
+     "IT services",
+     ""
+    ],
+    [
+     "btn",
+     "Telecommunications",
+     ""
+    ],
+    [
+     "btn",
+     "Real Estate",
+     ""
+    ],
+    [
+     "btn",
+     "Retail",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec779658405",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Traditional approach -Manual call listening:"
+    ],
+    [
+     "t",
+     "Innovative approach -\nGale AI call analytics:"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3433-3366-4635-a561-633231646661/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3238-3339-4838-b232-393166613438/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Managers analyse up to 5% of calls"
+    ],
+    [
+     "t",
+     "Platform\n analyzes\n 100% of calls"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3464-6666-4666-a635-326438316635/noroot.png",
+     ""
+    ],
+    [
+     "btn",
+     "",
+     ""
+    ],
+    [
+     "t",
+     "• Up to 5% of calls analyzed\n• No control over operators\n• Random assessment\n• No understanding of what happens in communications\n• Expensive to scale: as the contact center/sales department grows, more quality control managers need to be hired\n• Weak discipline among employees because they know their calls aren't being monitored"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3761-3534-4366-b161-353934366661/icons8-sad-100.png",
+     ""
+    ],
+    [
+     "t",
+     "• 100% of calls analyzed\n• Full control over operators\n• No random assessments\n• Complete understanding of what happens in customer communications\n• Reduction in personnel costs\n• High discipline among employees, as they know every call is monitored and analyzed\n• Increased efficiency of each employee"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3433-3264-4239-b635-393838393936/icons8-happy-100.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec779658406",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "What innovative approach brings to business?"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3965-3231-4966-b736-636535643234/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6164-6262-4462-b339-653265633062/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6434-3363-4266-b234-636131653935/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Reduction in operational costs"
+    ],
+    [
+     "t",
+     "Faster onboarding of newcomers"
+    ],
+    [
+     "t",
+     "Revenue growth"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658408",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "3 WAYS HOW GALE HELPS YOU DRIVE REVENUE"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658409",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Control"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6634-6662-4866-b639-363731303537/Conversational-Intel.png",
+     ""
+    ],
+    [
+     "t",
+     "With advanced AI call analytics you can track key metrics for each operator, saving dozens of hours."
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3631-6364-4830-b461-386430636231/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3766-3439-4036-b936-366166656130/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3735-6138-4135-b062-663835306133/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Script compliance"
+    ],
+    [
+     "t",
+     "Error-free calls"
+    ],
+    [
+     "t",
+     "Engagement level"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658410",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Top mistakes by operators:"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3038-6366-4565-b661-386465336465/KRY.svg",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6335-3131-4263-a435-633936396436/team-performance.png",
+     ""
+    ],
+    [
+     "t",
+     "Train"
+    ],
+    [
+     "t",
+     "With access to error analysis and personalized recommendations for each operator, managers can train more effectively, significantly reducing the time to achieve full employee productivity."
+    ]
+   ]
+  },
+  {
+   "id": "rec779658411",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3564-6266-4332-b936-353139373430/Screenshot_2024-04-3.png",
+     ""
+    ],
+    [
+     "t",
+     "Explore"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3337-6434-4235-b736-626434303365/_eng.svg",
+     ""
+    ],
+    [
+     "t",
+     "Since customers are the main source of insights for every business, stay informed about what your customers are saying. By using GALE AI to classify conversations by topics and highlight key insights, you can effectively direct your efforts to where they will generate the greatest revenue."
+    ]
+   ]
+  },
+  {
+   "id": "rec779658412",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3930-3239-4663-b530-303231363661/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6133-3264-4562-b238-616633353561/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "With Gale AI"
+    ],
+    [
+     "t",
+     "Stay ahead of the curve with Gale AI"
+    ],
+    [
+     "t",
+     "Without Gale AI"
+    ],
+    [
+     "t",
+     "Revenue growth"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6366-6165-4536-b630-633166333436/Copy_of_Product_Cata.svg",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec779658415",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Gale AI Features"
+    ],
+    [
+     "t",
+     "Transcription of audio to text\nEmotional tone of the customer and operator's speech\nScript adherence\nHighlighting operator errors\nTalk-to-listen ratio\nCall categorization by topics\nDetermining customer satisfaction\nOverall call score\nHighlighting of filler words and profanity\nPersonalized recommendations for the operator\nReal time recommendations for operators\nFunctionality of custom metrics for tracking\nEmail, chat analysis"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Transcription of audio to text"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Emotional tone of the customer and operator's speech"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Script adherence"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Highlighting operator errors"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Talk-to-listen ratio"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Call categorization by topics"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Determining customer satisfaction"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Overall call score"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Highlighting of filler words and profanity"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Personalized recommendations for the operator"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Real time recommendations for operators"
+    ],
+    [
+     "t",
+     "COMING SOON"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Functionality of custom metrics for tracking"
+    ],
+    [
+     "t",
+     "COMING SOON"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Email, chat analysis"
+    ],
+    [
+     "t",
+     "COMING SOON"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658419",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "GET FREE TRIAL TO see THE magic IN ACTION"
+    ],
+    [
+     "t",
+     "FREE trial"
+    ],
+    [
+     "t",
+     "Up to 500 minutes"
+    ],
+    [
+     "t",
+     "Do you want to see how to unlock new revenue?"
+    ],
+    [
+     "t",
+     "Have a question? We are here hello@galeapp.co"
+    ]
+   ]
+  },
+  {
+   "id": "rec779658424",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Designed with ❤️"
+    ],
+    [
+     "t",
+     "© 2024 Gale AI Company"
+    ],
+    [
+     "t",
+     "About product",
+     [
+      "https://galeapp.co"
+     ]
+    ],
+    [
+     "t",
+     "Partner programm",
+     [
+      "https://galeapp.co/partners/en"
+     ]
+    ],
+    [
+     "t",
+     "Blog",
+     [
+      "https://galeapp.co/blogen"
+     ]
+    ]
+   ]
+  }
+ ]
+}

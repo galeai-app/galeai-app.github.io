@@ -1,0 +1,220 @@
+{
+ "meta": {
+  "title": "Gale's blog EN",
+  "description": "Photographer's blog with tiled galleries and email subscription.",
+  "lang": ""
+ },
+ "blocks": [
+  {
+   "id": "rec740767170",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "GALE"
+    ],
+    [
+     "btn",
+     "Book demo",
+     "#rec727191933"
+    ],
+    [
+     "t",
+     "En"
+    ],
+    [
+     "t",
+     "Ru",
+     [
+      "http://galeapp.co/blogru"
+     ]
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec749696564",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Blog"
+    ]
+   ]
+  },
+  {
+   "id": "rec740761185",
+   "type": "404",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3463-6437-4864-b865-663333386532/_2.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "Artificial Intelligence in Finance: The Future of Money Management"
+    ],
+    [
+     "t",
+     "A template will help to create a short article"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6138-3265-4136-b539-363164643763/DALLE_2024-05-17_120.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "AI in Transportation: Revolutionizing the Roads"
+    ],
+    [
+     "t",
+     "A template will help to create a short article"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3935-3939-4139-a532-353939363432/__1.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Thursday, May 16"
+    ],
+    [
+     "h",
+     "Artificial Intelligence in Education: New Horizons of Learning"
+    ],
+    [
+     "t",
+     "A template will help to create a short article"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3637-3031-4237-b537-386263323565/_.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Thursday, May 16"
+    ],
+    [
+     "h",
+     "AI in Medicine: Future Technologies Today"
+    ],
+    [
+     "t",
+     "A template will help to create a short article"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6230-3065-4463-a639-346665373762/DALLE_2024-05-16_104.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Thursday, May 16"
+    ],
+    [
+     "h",
+     "AI Empowering Businesses: A New Era of Efficiency and Growth"
+    ],
+    [
+     "t",
+     "A template will help to create a short article"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3866-3064-4633-a466-623866326133/DALLE_2024-04-26_190.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, April 26"
+    ],
+    [
+     "h",
+     "Artificial Intelligence: Transforming the World Across Industries"
+    ],
+    [
+     "t",
+     "Great fullscreen cover image and a simple text layout."
+    ]
+   ]
+  },
+  {
+   "id": "rec740958159",
+   "type": "389",
+   "items": [
+    [
+     "h",
+     "© 2021 Your Company"
+    ],
+    [
+     "h",
+     "About us",
+     [
+      "#"
+     ]
+    ],
+    [
+     "h",
+     "Facebook",
+     [
+      "#"
+     ]
+    ],
+    [
+     "h",
+     "Twitter",
+     [
+      "#"
+     ]
+    ],
+    [
+     "h",
+     "Contacts",
+     [
+      "#"
+     ]
+    ],
+    [
+     "h",
+     "© 2021 Your Company"
+    ],
+    [
+     "btn",
+     "Back to top",
+     "javascript:t389_scrollToTop();"
+    ]
+   ]
+  }
+ ]
+}

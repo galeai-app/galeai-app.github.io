@@ -1,0 +1,510 @@
+{
+ "meta": {
+  "title": "Gale AI Vn",
+  "description": "AI-платформа для усиления контакт-центра",
+  "lang": ""
+ },
+ "blocks": [
+  {
+   "id": "rec732639323",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png",
+     ""
+    ],
+    [
+     "btn",
+     "Đặt lịch trình diễn",
+     "#rec732617528"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3362-3931-4433-b133-313138636438/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "En",
+     [
+      "http://galeapp.co"
+     ]
+    ],
+    [
+     "t",
+     "Vn"
+    ],
+    [
+     "t",
+     "Ru",
+     [
+      "http://galeapp.co/ru"
+     ]
+    ]
+   ]
+  },
+  {
+   "id": "rec732617518",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild6439-3665-4665-b132-306530663663/IMG_8369.PNG",
+     ""
+    ],
+    [
+     "t",
+     "Nền tảng AI để tăng cường trung tâm liên hệ"
+    ],
+    [
+     "t",
+     "Đặt cuộc trò chuyện của khách hàng vào trung tâm của doanh nghiệp bạn và mở khóa tiềm năng doanh thu"
+    ],
+    [
+     "btn",
+     "Đặt lịch trình diễn",
+     "#rec732617528"
+    ]
+   ]
+  },
+  {
+   "id": "rec734148933",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Bạn đã sẵn sàng khám phá những kho báu ẩn giấu trong doanh thu của mình chưa?"
+    ]
+   ]
+  },
+  {
+   "id": "rec732617519",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Cách tiếp cận truyền thống - Nghe cuộc gọi thủ công:"
+    ],
+    [
+     "t",
+     "Cách tiếp cận sáng tạo - Phân tích cuộc gọi Gale AI:"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3433-3366-4635-a561-633231646661/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6632-3639-4531-a166-346265306330/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Chỉ có tới 5% cuộc gọi được các quản lý đánh giá"
+    ],
+    [
+     "t",
+     "100% cuộc gọi được nền tảng đánh giá"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3464-6666-4666-a635-326438316635/noroot.png",
+     ""
+    ],
+    [
+     "btn",
+     "",
+     ""
+    ],
+    [
+     "t",
+     "• Chỉ phân tích tới 5% cuộc gọi\n• Không kiểm soát được các nhân viên điều hành\n• Đánh giá ngẫu nhiên\n• Không hiểu biết gì về những gì đang xảy ra trong giao tiếp\n• Tốn kém để mở rộng: với sự phát triển của bộ phận trung tâm liên hệ/bán hàng, cần phải thuê thêm nhiều quản lý kiểm soát chất lượng\n• Kỷ luật yếu kém ở nhân viên, vì họ biết rằng không ai nghe những cuộc gọi của họ"
+    ],
+    [
+     "t",
+     "• Phân tích 100% cuộc gọi\n• Kiểm soát đầy đủ đối với các nhân viên điều hành\n• Không có đánh giá ngẫu nhiên\n• Hiểu biết đầy đủ về những gì đang xảy ra trong giao tiếp với khách hàng\n• Giảm chi phí nhân sự\n• Kỷ luật cao ở nhân viên, vì họ biết mỗi cuộc gọi đều được nghe và phân tích\n• Tăng hiệu quả công việc của mỗi nhân viên"
+    ]
+   ]
+  },
+  {
+   "id": "rec732617520",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Cách tiếp cận sáng tạo mang lại điều gì cho doanh nghiệp?"
+    ],
+    [
+     "btn",
+     "Giảm chi phí hoạt động",
+     ""
+    ],
+    [
+     "btn",
+     "Đào tạo nhân viên mới nhanh hơn",
+     ""
+    ],
+    [
+     "btn",
+     "Tăng trưởng doanh thu",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-6263-4633-a536-333232353533/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3737-3065-4832-b131-383061316263/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3661-3965-4338-b962-653465383539/noroot.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec734173787",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "3 cách Gale giúp bạn tăng doanh thu"
+    ]
+   ]
+  },
+  {
+   "id": "rec736373312",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Kiểm soát"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3563-6461-4361-a261-353437386438/Conversational_4444.png",
+     ""
+    ],
+    [
+     "t",
+     "Với phân tích cuộc gọi AI tiên tiến, bạn có thể theo dõi các chỉ số quan trọng cho mỗi nhân viên điều hành, tiết kiệm hàng chục giờ."
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3631-6364-4830-b461-386430636231/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3766-3439-4036-b936-366166656130/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3735-6138-4135-b062-663835306133/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Script compliance"
+    ],
+    [
+     "t",
+     "Error-free calls"
+    ],
+    [
+     "t",
+     "Engagement level"
+    ]
+   ]
+  },
+  {
+   "id": "rec736373458",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3038-6366-4565-b661-386465336465/KRY.svg",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6436-6435-4332-b138-383133366533/team-performance123.png",
+     ""
+    ],
+    [
+     "t",
+     "Đào tạo"
+    ],
+    [
+     "t",
+     "Với quyền truy cập vào phân tích lỗi và khuyến nghị cá nhân hóa cho mỗi nhân viên điều hành, các quản lý có thể đào tạo hiệu quả hơn, giảm đáng kể thời gian để đạt được năng suất làm việc đầy đủ của nhân viên."
+    ]
+   ]
+  },
+  {
+   "id": "rec736373564",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3337-6434-4235-b736-626434303365/_eng.svg",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3337-3931-4636-a639-643363383462/ffvnnnn.png",
+     ""
+    ],
+    [
+     "t",
+     "Khám phá"
+    ],
+    [
+     "t",
+     "Vì khách hàng là nguồn thông tin quan trọng nhất cho mọi doanh nghiệp, hãy luôn cập nhật những gì khách hàng của bạn nói. Bằng cách sử dụng GALE AI để phân loại cuộc trò chuyện theo chủ đề và làm nổi bật những thông tin quan trọng, bạn có thể hiệu quả hướng nỗ lực của mình vào những nơi sẽ sinh lợi nhuận cao nhất."
+    ]
+   ]
+  },
+  {
+   "id": "rec732617525",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3930-3239-4663-b530-303231363661/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Với Gale AI"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6133-3264-4562-b238-616633353561/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "Hãy luôn đi trước một bước"
+    ],
+    [
+     "t",
+     "Không có Gale AI"
+    ],
+    [
+     "t",
+     "Tăng trưởng doanh thu"
+    ]
+   ]
+  },
+  {
+   "id": "rec734175148",
+   "type": "396",
+   "items": [
+    [
+     "btn",
+     "COMING SOON",
+     ""
+    ],
+    [
+     "t",
+     "Các tính năng của Gale AI"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Chuyển đổi âm thanh thành văn bản"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Tông giọng cảm xúc của khách hàng và người điều hành"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Tuân thủ kịch bản"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Nhấn mạnh lỗi của người điều hành"
+    ],
+    [
+     "t",
+     "Chuyển đổi âm thanh thành văn bản\nTông giọng cảm xúc của khách hàng và người điều hành\nTuân thủ kịch bản\nNhấn mạnh lỗi của người điều hành\nTalk-to-listen ratio\nPhân loại cuộc gọi theo chủ đề\nXác định sự hài lòng của khách hàng\nĐiểm số cuộc gọi tổng thể\nNhấn mạnh các từ lấp và từ tục\nĐề xuất cá nhân hóa cho người điều hành\nĐề xuất thời gian thực cho người điều hành\nChức năng của các chỉ số tùy chỉnh để theo dõi\nPhân tích email, trò chuyện"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Talk-to-listen ratio"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Phân loại cuộc gọi theo chủ đề"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Xác định sự hài lòng của khách hàng"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Điểm số cuộc gọi tổng thể"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Nhấn mạnh các từ lấp và từ tục"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Đề xuất cá nhân hóa cho người điều hành"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Đề xuất thời gian thực cho người điều hành"
+    ],
+    [
+     "t",
+     "SẮP RA MẮT"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Chức năng của các chỉ số tùy chỉnh để theo dõi"
+    ],
+    [
+     "t",
+     "SẮP RA MẮT"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png",
+     ""
+    ],
+    [
+     "t",
+     "Phân tích email, trò chuyện"
+    ],
+    [
+     "t",
+     "SẮP RA MẮT"
+    ]
+   ]
+  },
+  {
+   "id": "rec732617528",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "NHẬN THỬ NGHIỆM MIỄN PHÍ ĐỂ THẤY PHÉP MÀU TRONG HÀNH ĐỘNG"
+    ],
+    [
+     "t",
+     "Dùng thử miễn phí"
+    ],
+    [
+     "t",
+     "Lên đến 500 phút"
+    ],
+    [
+     "t",
+     "Mở khóa tiềm năng doanh thu ngay hôm nay!"
+    ],
+    [
+     "t",
+     "Có câu hỏi? Chúng tôi ở đây hello@galeapp.co"
+    ]
+   ]
+  },
+  {
+   "id": "rec737024852",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Designed with ❤️"
+    ],
+    [
+     "t",
+     "© 2024 Gale AI Company"
+    ],
+    [
+     "t",
+     "Về sản phẩm",
+     [
+      "https://galeapp.co/vn"
+     ]
+    ],
+    [
+     "t",
+     "Chương trình đối tác",
+     [
+      "https://galeapp.co/partners/vn"
+     ]
+    ]
+   ]
+  }
+ ]
+}

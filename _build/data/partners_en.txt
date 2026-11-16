@@ -1,0 +1,58 @@
+# partners_en | Become Gale AI partner | lang=
+Get 50% commission of selling Gale AI
+
+--- rec736959767 type=396
+  [IMG] https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png 
+  [BTN] Become partner -> #rec736936593
+  [IMG] https://static.tildacdn.info/tild3362-3931-4433-b133-313138636438/noroot.png 
+  [T] En
+  [T] Vn  (links: http://galeapp.co/partners/vn)
+  [IMG] https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png 
+--- rec736892722 type=396
+  [T] Join the Gale AI Partner Program
+  [T] Offer Gale AI Platform to your clients and get commission. By offering our cutting-edge product, you will not only expand your advantage on the market but also significantly increase your income.
+  [BTN] Learn more about product -> https://galeapp.co
+  [T] 50%
+  [T] $3000
+  [T] Partner commission up to 50%, paid as long as the client pays
+  [T] Average earnings per client per year, the larger the company, the more expensive our solution and your commission
+--- rec736912899 type=396
+  [T] 6 reasons to work with us
+  [IMG] https://static.tildacdn.info/tild3235-3164-4539-b261-343238643738/number-1.png 
+  [T] New source of income
+  [IMG] https://static.tildacdn.info/tild3561-3135-4561-a333-363039333238/number-2.png 
+  [T] Technological advantage
+  [T] Earn substantial commissions on each transaction, expanding your business with a new, in-demand product.
+  [T] Gain access to cutting-edge AI technologies that will improve your company's offerings and distinguish you in the market.
+  [IMG] https://static.tildacdn.info/tild3531-6435-4136-b237-306463353866/number-3.png 
+  [T] Enhancing client loyalty
+  [IMG] https://static.tildacdn.info/tild6630-3262-4334-a662-376164633064/number-4.png 
+  [T] Marketing and technical support
+  [T] By offering innovative solutions, you will not only meet the needs of your clients but also strengthen their trust and loyalty to your brand.
+  [T] Receive full support from our team, including marketing materials and technical assistance, which will facilitate implementation and sales.
+  [IMG] https://static.tildacdn.info/tild6437-3435-4261-b936-373738653230/number-5.png 
+  [T] Both for companies and individuals
+  [IMG] https://static.tildacdn.info/tild6430-3665-4062-b165-313134383461/number-6.png 
+  [T] Client is fixed by partner
+  [T] You can attract clients even if you don't have a company.
+  [T] All your referred clients are registered under you, ensuring you a continuous income from each of their transactions in the future.
+--- rec736914108 type=396
+  [T] Getting Started is Easy
+  [T] Fill out the partnership application through our registration form
+  [T] 1
+  [T] Gain access to our resources
+  [T] 2
+  [T] Begin offering Gale AI to your clients and earn commissions
+  [T] 3
+--- rec736936593 type=396
+  [T] Become partner
+  [T] Have a question?
+  [T] Email: hello@galeapp.co  /  Zalo: +84 8 9822 5072
+--- rec810751700 type=396
+  [T] Designed with ❤️
+  [T] © 2024 Gale AI (ИП Кокора Павел Евгеньевич)
+  [T] О продукте  (links: https://galeapp.co/ru)
+  [T] Партнерская программа  (links: https://galeapp.co/partners/ru)
+  [T] Политика обработки персональных данных  (links: https://galeapp.co/privacy)

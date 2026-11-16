@@ -1,0 +1,171 @@
+{
+ "meta": {
+  "title": "Gale's BLOG RU",
+  "description": "Интересные статьи про Искусственный интеллект от Gale AI",
+  "lang": ""
+ },
+ "blocks": [
+  {
+   "id": "rec749704101",
+   "type": "396",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png",
+     ""
+    ],
+    [
+     "t",
+     "GALE",
+     [
+      "https://galeapp.co/ru"
+     ]
+    ],
+    [
+     "btn",
+     "Хочу демо",
+     "https://galeapp.co/ru"
+    ],
+    [
+     "t",
+     "Ru"
+    ],
+    [
+     "t",
+     "En"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png",
+     ""
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png",
+     ""
+    ]
+   ]
+  },
+  {
+   "id": "rec749704102",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "БЛОГ"
+    ]
+   ]
+  },
+  {
+   "id": "rec749704103",
+   "type": "404",
+   "items": [
+    [
+     "img",
+     "https://static.tildacdn.info/tild3463-6437-4864-b865-663333386532/_2.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "Искусственный Интеллект в Финансах: Будущее Управления Деньгами"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6138-3265-4136-b539-363164643763/DALLE_2024-05-17_120.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "ИИ в Транспорте: Революция на Дорогах"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3935-3939-4139-a532-353939363432/__1.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "Искусственный Интеллект в Образовании: Новые Горизонты Обучения"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild3637-3031-4237-b537-386263323565/_.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "ИИ в Медицине: Технологии Будущего Сегодня"
+    ],
+    [
+     "img",
+     "https://static.tildacdn.info/tild6230-3065-4463-a639-346665373762/DALLE_2024-05-16_104.jpg",
+     ""
+    ],
+    [
+     "h",
+     "Friday, May 17"
+    ],
+    [
+     "h",
+     "ИИ Усиливает Бизнесы: Новая Эра Эффективности и Роста"
+    ]
+   ]
+  },
+  {
+   "id": "rec749747042",
+   "type": "396",
+   "items": [
+    [
+     "t",
+     "Designed with ❤️"
+    ],
+    [
+     "t",
+     "© 2024 Gale AI Company"
+    ],
+    [
+     "t",
+     "О продукте",
+     [
+      "https://galeapp.co/ru"
+     ]
+    ],
+    [
+     "t",
+     "Партнерская программа",
+     [
+      "https://galeapp.co/partners/ru"
+     ]
+    ],
+    [
+     "t",
+     "Блог",
+     [
+      "https://galeapp.co/blogru"
+     ]
+    ]
+   ]
+  }
+ ]
+}

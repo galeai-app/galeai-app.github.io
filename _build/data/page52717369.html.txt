@@ -1,0 +1,121 @@
+# page52717369.html | Copy of Gale AI EN | lang=
+AI-платформа для усиления контакт-центра
+
+--- rec779658400 type=396
+  [IMG] https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png 
+  [BTN] Book demo -> #rec727191933
+  [IMG] https://static.tildacdn.info/tild3362-3931-4433-b133-313138636438/noroot.png 
+  [T] En
+  [T] Vn  (links: http://galeapp.co/vn)
+  [T] Ru  (links: http://galeapp.co/ru)
+  [IMG] https://static.tildacdn.info/tild3966-3865-4362-b764-346338366261/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3561-3064-4930-b831-333135366533/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6262-3232-4164-b062-656462643132/noroot.png 
+--- rec779658401 type=396
+  [IMG] https://static.tildacdn.info/tild6439-3665-4665-b132-306530663663/IMG_8369.PNG 
+  [T] THE AI PLATFORM THAT EMPOWERS YOUR CONTACT CENTER
+  [T] Put customer conversations at the center of your business and unlock revenue potential
+  [BTN] Book demo -> #rec727191933
+--- rec779658404 type=396
+  [T] Which industries need Gale AI
+  [BTN] Medical practice -> 
+  [BTN] IT services -> 
+  [BTN] Telecommunications -> 
+  [BTN] Real Estate -> 
+  [BTN] Retail -> 
+--- rec779658405 type=396
+  [T] Traditional approach -Manual call listening:
+  [T] Innovative approach - / Gale AI call analytics:
+  [IMG] https://static.tildacdn.info/tild3433-3366-4635-a561-633231646661/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3238-3339-4838-b232-393166613438/noroot.png 
+  [T] Managers analyse up to 5% of calls
+  [T] Platform /  analyzes /  100% of calls
+  [IMG] https://static.tildacdn.info/tild3464-6666-4666-a635-326438316635/noroot.png 
+  [BTN]  -> 
+  [T] • Up to 5% of calls analyzed / • No control over operators / • Random assessment / • No understanding of what happens in communications / • Expensive to scale: as the contact center/sales department grows, more quality control managers need to be hired / • Weak discipline among employees because they know their calls aren't being monitored
+  [IMG] https://static.tildacdn.info/tild3761-3534-4366-b161-353934366661/icons8-sad-100.png 
+  [T] • 100% of calls analyzed / • Full control over operators / • No random assessments / • Complete understanding of what happens in customer communications / • Reduction in personnel costs / • High discipline among employees, as they know every call is monitored and analyzed / • Increased efficiency of each employee
+  [IMG] https://static.tildacdn.info/tild3433-3264-4239-b635-393838393936/icons8-happy-100.png 
+--- rec779658406 type=396
+  [T] What innovative approach brings to business?
+  [IMG] https://static.tildacdn.info/tild3965-3231-4966-b736-636535643234/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6164-6262-4462-b339-653265633062/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6434-3363-4266-b234-636131653935/noroot.png 
+  [T] Reduction in operational costs
+  [T] Faster onboarding of newcomers
+  [T] Revenue growth
+--- rec779658408 type=396
+  [T] 3 WAYS HOW GALE HELPS YOU DRIVE REVENUE
+--- rec779658409 type=396
+  [T] Control
+  [IMG] https://static.tildacdn.info/tild6634-6662-4866-b639-363731303537/Conversational-Intel.png 
+  [T] With advanced AI call analytics you can track key metrics for each operator, saving dozens of hours.
+  [IMG] https://static.tildacdn.info/tild3631-6364-4830-b461-386430636231/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3766-3439-4036-b936-366166656130/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3735-6138-4135-b062-663835306133/noroot.png 
+  [T] Script compliance
+  [T] Error-free calls
+  [T] Engagement level
+--- rec779658410 type=396
+  [T] Top mistakes by operators:
+  [IMG] https://static.tildacdn.info/tild3038-6366-4565-b661-386465336465/KRY.svg 
+  [IMG] https://static.tildacdn.info/tild6335-3131-4263-a435-633936396436/team-performance.png 
+  [T] Train
+  [T] With access to error analysis and personalized recommendations for each operator, managers can train more effectively, significantly reducing the time to achieve full employee productivity.
+--- rec779658411 type=396
+  [IMG] https://static.tildacdn.info/tild3564-6266-4332-b936-353139373430/Screenshot_2024-04-3.png 
+  [T] Explore
+  [IMG] https://static.tildacdn.info/tild3337-6434-4235-b736-626434303365/_eng.svg 
+  [T] Since customers are the main source of insights for every business, stay informed about what your customers are saying. By using GALE AI to classify conversations by topics and highlight key insights, you can effectively direct your efforts to where they will generate the greatest revenue.
+--- rec779658412 type=396
+  [IMG] https://static.tildacdn.info/tild3930-3239-4663-b530-303231363661/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6133-3264-4562-b238-616633353561/noroot.png 
+  [T] With Gale AI
+  [T] Stay ahead of the curve with Gale AI
+  [T] Without Gale AI
+  [T] Revenue growth
+  [IMG] https://static.tildacdn.info/tild6366-6165-4536-b630-633166333436/Copy_of_Product_Cata.svg 
+--- rec779658415 type=396
+  [T] Gale AI Features
+  [T] Transcription of audio to text / Emotional tone of the customer and operator's speech / Script adherence / Highlighting operator errors / Talk-to-listen ratio / Call categorization by topics / Determining customer satisfaction / Overall call score / Highlighting of filler words and profanity / Personalized recommendations for the operator / Real time recommendations for operators / Functionality of custom metrics for tracking / Email, chat analysis
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Transcription of audio to text
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Emotional tone of the customer and operator's speech
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Script adherence
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Highlighting operator errors
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Talk-to-listen ratio
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Call categorization by topics
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Determining customer satisfaction
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Overall call score
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Highlighting of filler words and profanity
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Personalized recommendations for the operator
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Real time recommendations for operators
+  [T] COMING SOON
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Functionality of custom metrics for tracking
+  [T] COMING SOON
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Email, chat analysis
+  [T] COMING SOON
+--- rec779658419 type=396
+  [T] GET FREE TRIAL TO see THE magic IN ACTION
+  [T] FREE trial
+  [T] Up to 500 minutes
+  [T] Do you want to see how to unlock new revenue?
+  [T] Have a question? We are here hello@galeapp.co
+--- rec779658424 type=396
+  [T] Designed with ❤️
+  [T] © 2024 Gale AI Company
+  [T] About product  (links: https://galeapp.co)
+  [T] Partner programm  (links: https://galeapp.co/partners/en)
+  [T] Blog  (links: https://galeapp.co/blogen)

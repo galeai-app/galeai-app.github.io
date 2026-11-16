@@ -1,0 +1,109 @@
+# vn | Gale AI Vn | lang=
+AI-платформа для усиления контакт-центра
+
+--- rec732639323 type=396
+  [IMG] https://static.tildacdn.info/tild3562-6535-4134-a332-653633373364/noroot.png 
+  [BTN] Đặt lịch trình diễn -> #rec732617528
+  [IMG] https://static.tildacdn.info/tild3362-3931-4433-b133-313138636438/noroot.png 
+  [T] En  (links: http://galeapp.co)
+  [T] Vn
+  [T] Ru  (links: http://galeapp.co/ru)
+--- rec732617518 type=396
+  [IMG] https://static.tildacdn.info/tild6439-3665-4665-b132-306530663663/IMG_8369.PNG 
+  [T] Nền tảng AI để tăng cường trung tâm liên hệ
+  [T] Đặt cuộc trò chuyện của khách hàng vào trung tâm của doanh nghiệp bạn và mở khóa tiềm năng doanh thu
+  [BTN] Đặt lịch trình diễn -> #rec732617528
+--- rec734148933 type=396
+  [T] Bạn đã sẵn sàng khám phá những kho báu ẩn giấu trong doanh thu của mình chưa?
+--- rec732617519 type=396
+  [T] Cách tiếp cận truyền thống - Nghe cuộc gọi thủ công:
+  [T] Cách tiếp cận sáng tạo - Phân tích cuộc gọi Gale AI:
+  [IMG] https://static.tildacdn.info/tild3433-3366-4635-a561-633231646661/noroot.png 
+  [IMG] https://static.tildacdn.info/tild6632-3639-4531-a166-346265306330/noroot.png 
+  [T] Chỉ có tới 5% cuộc gọi được các quản lý đánh giá
+  [T] 100% cuộc gọi được nền tảng đánh giá
+  [IMG] https://static.tildacdn.info/tild3464-6666-4666-a635-326438316635/noroot.png 
+  [BTN]  -> 
+  [T] • Chỉ phân tích tới 5% cuộc gọi / • Không kiểm soát được các nhân viên điều hành / • Đánh giá ngẫu nhiên / • Không hiểu biết gì về những gì đang xảy ra trong giao tiếp / • Tốn kém để mở rộng: với sự phát triển của bộ phận trung tâm liên hệ/bán hàng, cần phải thuê thêm nhiều quản lý kiểm soát chất lượng / • Kỷ luật yếu kém ở nhân viên, vì họ biết rằng không ai nghe những cuộc gọi của họ
+  [T] • Phân tích 100% cuộc gọi / • Kiểm soát đầy đủ đối với các nhân viên điều hành / • Không có đánh giá ngẫu nhiên / • Hiểu biết đầy đủ về những gì đang xảy ra trong giao tiếp với khách hàng / • Giảm chi phí nhân sự / • Kỷ luật cao ở nhân viên, vì họ biết mỗi cuộc gọi đều được nghe và phân tích / • Tăng hiệu quả công việc của mỗi nhân viên
+--- rec732617520 type=396
+  [T] Cách tiếp cận sáng tạo mang lại điều gì cho doanh nghiệp?
+  [BTN] Giảm chi phí hoạt động -> 
+  [BTN] Đào tạo nhân viên mới nhanh hơn -> 
+  [BTN] Tăng trưởng doanh thu -> 
+  [IMG] https://static.tildacdn.info/tild6137-6263-4633-a536-333232353533/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3737-3065-4832-b131-383061316263/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3661-3965-4338-b962-653465383539/noroot.png 
+--- rec734173787 type=396
+  [T] 3 cách Gale giúp bạn tăng doanh thu
+--- rec736373312 type=396
+  [T] Kiểm soát
+  [IMG] https://static.tildacdn.info/tild3563-6461-4361-a261-353437386438/Conversational_4444.png 
+  [T] Với phân tích cuộc gọi AI tiên tiến, bạn có thể theo dõi các chỉ số quan trọng cho mỗi nhân viên điều hành, tiết kiệm hàng chục giờ.
+  [IMG] https://static.tildacdn.info/tild3631-6364-4830-b461-386430636231/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3766-3439-4036-b936-366166656130/noroot.png 
+  [IMG] https://static.tildacdn.info/tild3735-6138-4135-b062-663835306133/noroot.png 
+  [T] Script compliance
+  [T] Error-free calls
+  [T] Engagement level
+--- rec736373458 type=396
+  [IMG] https://static.tildacdn.info/tild3038-6366-4565-b661-386465336465/KRY.svg 
+  [IMG] https://static.tildacdn.info/tild6436-6435-4332-b138-383133366533/team-performance123.png 
+  [T] Đào tạo
+  [T] Với quyền truy cập vào phân tích lỗi và khuyến nghị cá nhân hóa cho mỗi nhân viên điều hành, các quản lý có thể đào tạo hiệu quả hơn, giảm đáng kể thời gian để đạt được năng suất làm việc đầy đủ của nhân viên.
+--- rec736373564 type=396
+  [IMG] https://static.tildacdn.info/tild3337-6434-4235-b736-626434303365/_eng.svg 
+  [IMG] https://static.tildacdn.info/tild3337-3931-4636-a639-643363383462/ffvnnnn.png 
+  [T] Khám phá
+  [T] Vì khách hàng là nguồn thông tin quan trọng nhất cho mọi doanh nghiệp, hãy luôn cập nhật những gì khách hàng của bạn nói. Bằng cách sử dụng GALE AI để phân loại cuộc trò chuyện theo chủ đề và làm nổi bật những thông tin quan trọng, bạn có thể hiệu quả hướng nỗ lực của mình vào những nơi sẽ sinh lợi nhuận cao nhất.
+--- rec732617525 type=396
+  [IMG] https://static.tildacdn.info/tild3930-3239-4663-b530-303231363661/noroot.png 
+  [T] Với Gale AI
+  [IMG] https://static.tildacdn.info/tild6133-3264-4562-b238-616633353561/noroot.png 
+  [T] Hãy luôn đi trước một bước
+  [T] Không có Gale AI
+  [T] Tăng trưởng doanh thu
+--- rec734175148 type=396
+  [BTN] COMING SOON -> 
+  [T] Các tính năng của Gale AI
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Chuyển đổi âm thanh thành văn bản
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Tông giọng cảm xúc của khách hàng và người điều hành
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Tuân thủ kịch bản
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Nhấn mạnh lỗi của người điều hành
+  [T] Chuyển đổi âm thanh thành văn bản / Tông giọng cảm xúc của khách hàng và người điều hành / Tuân thủ kịch bản / Nhấn mạnh lỗi của người điều hành / Talk-to-listen ratio / Phân loại cuộc gọi theo chủ đề / Xác định sự hài lòng của khách hàng / Điểm số cuộc gọi tổng thể / Nhấn mạnh các từ lấp và từ tục / Đề xuất cá nhân hóa cho người điều hành / Đề xuất thời gian thực cho người điều hành / Chức năng của các chỉ số tùy chỉnh để theo dõi / Phân tích email, trò chuyện
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Talk-to-listen ratio
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Phân loại cuộc gọi theo chủ đề
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Xác định sự hài lòng của khách hàng
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Điểm số cuộc gọi tổng thể
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Nhấn mạnh các từ lấp và từ tục
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Đề xuất cá nhân hóa cho người điều hành
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Đề xuất thời gian thực cho người điều hành
+  [T] SẮP RA MẮT
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Chức năng của các chỉ số tùy chỉnh để theo dõi
+  [T] SẮP RA MẮT
+  [IMG] https://static.tildacdn.info/tild6137-3361-4664-b038-393063396134/icons8-tick-60.png 
+  [T] Phân tích email, trò chuyện
+  [T] SẮP RA MẮT
+--- rec732617528 type=396
+  [T] NHẬN THỬ NGHIỆM MIỄN PHÍ ĐỂ THẤY PHÉP MÀU TRONG HÀNH ĐỘNG
+  [T] Dùng thử miễn phí
+  [T] Lên đến 500 phút
+  [T] Mở khóa tiềm năng doanh thu ngay hôm nay!
+  [T] Có câu hỏi? Chúng tôi ở đây hello@galeapp.co
+--- rec737024852 type=396
+  [T] Designed with ❤️
+  [T] © 2024 Gale AI Company
+  [T] Về sản phẩm  (links: https://galeapp.co/vn)
+  [T] Chương trình đối tác  (links: https://galeapp.co/partners/vn)
