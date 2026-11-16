@@ -211,8 +211,8 @@ def main():
         for old, new in getattr(m, 'REDIRECTS', []):
             redirect(old, new)
         return
-    landing('ru', '/', {'ru': '/', 'en': '/en/', 'vn': '/vn/'})
-    landing('en', '/en/', {'ru': '/', 'en': '/en/', 'vn': '/vn/'})
+    landing('ru', '/ru/', {'ru': '/ru/', 'en': '/'})
+    landing('en', '/', {'ru': '/ru/', 'en': '/'})   # English is the default
     blog('ru')
     blog('en')
     privacy()
@@ -223,16 +223,16 @@ def main():
         for old, new in getattr(m, 'REDIRECTS', []):
             redirect(old, new)
     # old Tilda URLs → new locations
-    for old, new in [('/ru/', '/'), ('/page52717369.html', '/en/contact-center/'),
+    for old, new in [('/en/', '/'), ('/en/contact-center/', '/'), ('/page52717369.html', '/'),
                      ('/page52717473.html', '/ru/callcenter/'), ('/page49110001.html', '/blogen/ai-in-finance/'),
                      ('/page49107819.html', '/blogen/ai-in-transportation/'), ('/page49043229.html', '/blogen/ai-in-education/'),
                      ('/page49041315.html', '/blogen/ai-in-medicine/'), ('/page49036701.html', '/blogen/ai-empowering-businesses/'),
                      ('/page47979465.html', '/blogen/ai-transforming-the-world/'), ('/partners/', '/partners/ru/'),
-                     ('/freetrial/', '/freetrial/ru/'), ('/cases/inprogress/', '/cases/'), ('/vn/', '/en/'), ('/partners/vn/', '/partners/en/')]:
+                     ('/freetrial/', '/freetrial/ru/'), ('/cases/inprogress/', '/cases/'), ('/vn/', '/'), ('/partners/vn/', '/partners/en/')]:
         redirect(old, new)
-    nf = (hero('Страница не найдена', 'Возможно, она переехала. Начните с главной или посмотрите кейсы.', kicker='404',
-               buttons=[('На главную', '/', 'primary'), ('Кейсы', '/cases/', 'ghost'), ('English version', '/en/', 'ghost')]))
-    write('/404.html', page(lang='ru', path='/404.html', title='Страница не найдена — Gale AI', body=nf))
+    nf = (hero('Page not found', 'It may have moved. Start from the home page or see our case studies.', kicker='404',
+               buttons=[('Home', '/', 'primary'), ('Case studies', '/cases/', 'ghost'), ('Русская версия', '/ru/', 'ghost')]))
+    write('/404.html', page(lang='en', path='/404.html', title='Page not found — Gale AI', body=nf))
     if not (kit.IMG_DIR / 'og.png').exists():
         (kit.IMG_DIR / 'og.png').write_bytes((kit.IMG_DIR / 'logo.png').read_bytes())
     # drop downloaded originals that no page uses (e.g. replaced by resized copies)

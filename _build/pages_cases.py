@@ -60,7 +60,7 @@ def case_page(*, path, title, h1, tags, results, about, client_stats, problem, f
     body += section(case_cards(other), title='Другие кейсы')
     body += cta('ru')
     return dict(lang='ru', path=path, title=title, description=desc, body=body,
-                alts={'ru': path, 'en': '/en/', 'vn': '/vn/'})
+                alts={'ru': path, 'en': '/'})
 
 
 DOMGROUP = case_page(
@@ -121,7 +121,7 @@ PORTALBILET = case_page(
 CASES_INDEX = dict(
     lang='ru', path='/cases/', title='Кейсы внедрения Gale AI',
     description='Как компании увеличивают выручку и конверсию с помощью ИИ-аналитики звонков Gale AI: кейсы Portalbilet и Дом Групп Про.',
-    alts={'ru': '/cases/', 'en': '/en/', 'vn': '/vn/'},
+    alts={'ru': '/cases/', 'en': '/'},
     body=hero('Кейсы внедрения Gale AI', 'Как наши клиенты находят точки роста в звонках и превращают их в выручку.',
               kicker='Кейсы', buttons=[('Забронировать демо', CALENDLY, 'primary'), ('Протестировать бесплатно', '/freetrial/ru/', 'ghost')])
     + section(case_cards(CASES), tone='')
@@ -133,9 +133,9 @@ CASES_INDEX = dict(
 FREETRIAL = dict(
     lang='ru', path='/freetrial/ru/', title='Бесплатное тестирование Gale AI — что нужно',
     description='Что нужно для бесплатного тестирования Gale AI: NDA, выгрузка звонков и скрипты. Результат — через 7 дней.',
-    alts={'ru': '/freetrial/ru/', 'en': '/en/', 'vn': '/vn/'},
+    alts={'ru': '/freetrial/ru/', 'en': '/'},
     body=hero('Что нужно для бесплатного тестирования?', 'Результат тестирования будет готов через 7 дней после того, как мы получим звонки для анализа.',
-              kicker='Бесплатный тест', buttons=[('Хочу тест', CALENDLY, 'primary'), ('Как выглядит платформа', '/#gale-platform', 'ghost')],
+              kicker='Бесплатный тест', buttons=[('Хочу тест', CALENDLY, 'primary'), ('Как выглядит платформа', '/ru/#gale-platform', 'ghost')],
               aside=result_card([('7 дней', 'и вы получите разбор своих звонков'), ('0 ₽', 'стоимость тестирования')]).replace('Результат после внедрения', 'Бесплатный тест'))
     + section(steps([
         ('NDA', 'Мы подпишем с вами NDA, чтобы ваши данные были в безопасности.'),

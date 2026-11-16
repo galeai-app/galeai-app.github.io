@@ -77,16 +77,16 @@ def icon(name, size=24):
 
 # ---------------------------------------------------------------- i18n chrome
 STR = {
-    'ru': dict(demo='Забронировать демо', menu='Меню', home='/',
-               nav=[('Платформа', '/#gale-platform'), ('Кейсы', '/cases/'), ('Колл-центр', '/ru/callcenter/'),
+    'ru': dict(demo='Забронировать демо', menu='Меню', home='/ru/',
+               nav=[('Платформа', '/ru/#gale-platform'), ('Кейсы', '/cases/'), ('Колл-центр', '/ru/callcenter/'),
                     ('Партнёрам', '/partners/ru/'), ('Блог', '/blogru/')],
-               foot=[('О продукте', '/'), ('Кейсы', '/cases/'), ('Партнёрская программа', '/partners/ru/'),
+               foot=[('О продукте', '/ru/'), ('Кейсы', '/cases/'), ('Партнёрская программа', '/partners/ru/'),
                      ('Блог', '/blogru/'), ('Политика обработки персональных данных', '/privacy/')],
                copy='© 2024 Gale AI (ИП Кокора Павел Евгеньевич)', skip='Перейти к содержанию'),
-    'en': dict(demo='Book a demo', menu='Menu', home='/en/',
-               nav=[('Platform', '/en/#gale-platform'), ('Contact center', '/en/contact-center/'),
+    'en': dict(demo='Book a demo', menu='Menu', home='/',
+               nav=[('Platform', '/#gale-platform'),
                     ('Case studies', '/cases/'), ('Partners', '/partners/en/'), ('Blog', '/blogen/')],
-               foot=[('About the product', '/en/'), ('Partner program', '/partners/en/'), ('Blog', '/blogen/'),
+               foot=[('About the product', '/'), ('Partner program', '/partners/en/'), ('Blog', '/blogen/'),
                      ('Privacy policy', '/privacy/')],
                copy='© 2024 Gale AI', skip='Skip to content'),
     'vn': dict(demo='Đặt lịch demo', menu='Menu', home='/vn/',
@@ -95,7 +95,7 @@ STR = {
                copy='© 2024 Gale AI', skip='Chuyển đến nội dung'),
 }
 LANGS = ('ru', 'en')          # VN version removed
-LANG_HOME = {'ru': '/', 'en': '/en/', 'vn': '/vn/'}
+LANG_HOME = {'ru': '/ru/', 'en': '/', 'vn': '/'}   # EN is the default home
 HTML_LANG = {'ru': 'ru', 'en': 'en', 'vn': 'vi'}
 
 def header(lang, path, alts):

@@ -28,7 +28,7 @@ C = {
              'новый источник дохода, но и усиливаете своё преимущество на рынке за счёт инновационного продукта.',
         apply='Стать партнёром', subject='Партнёрская программа Gale AI',
         wa='Написать в WhatsApp',
-        more=('Узнать больше о продукте', '/'),
+        more=('Узнать больше о продукте', '/ru/'),
         stats=[('25%', 'Партнёрская комиссия до 25% от платежей — выплачивается, пока клиент пользуется продуктом'),
                ('180 000 ₽', 'Средний заработок на комиссиях с одного клиента за год. Чем больше компания, '
                               'тем выше тариф и, соответственно, ваша комиссия')],
@@ -73,7 +73,7 @@ C = {
              'you will not only expand your advantage on the market but also significantly increase your income.',
         apply='Become a partner', subject='Gale AI Partner Program application',
         wa='Message us on WhatsApp',
-        more=('Learn more about the product', '/en/'),
+        more=('Learn more about the product', '/'),
         stats=[('50%', 'Partner commission up to 50%, paid as long as the client pays'),
                ('$3,000', 'Average earnings per client per year. The larger the company, the more expensive '
                           'our solution and the higher your commission')],

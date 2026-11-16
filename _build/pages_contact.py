@@ -390,7 +390,7 @@ def intl_body(lang):
     return out
 
 
-CC_ALTS = {'ru': '/ru/callcenter/', 'en': '/en/contact-center/', 'vn': '/vn/'}
+CC_ALTS = {'ru': '/ru/callcenter/', 'en': '/'}
 
 PAGES = [
     dict(lang='ru', path='/ru/callcenter/',
@@ -398,9 +398,4 @@ PAGES = [
          description='ИИ-платформа для усиления колл-центра: 100% контроль над каждым звонком и каждым сотрудником '
                      'без сотен часов ручного прослушивания. Бесплатный пилот до 1000 звонков.',
          body=ru_body(), alts=CC_ALTS),
-    dict(lang='en', path='/en/contact-center/',
-         title='Gale AI for contact centers — AI call analytics for 100% of calls',
-         description='The AI platform that empowers your contact center: analyze 100% of calls, control and train '
-                     'operators, and unlock revenue potential from customer conversations.',
-         body=intl_body('en'), alts=CC_ALTS),
 ]
